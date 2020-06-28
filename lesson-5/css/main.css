@@ -1,0 +1,50 @@
+body {
+    background: rgb(215, 245, 222);
+}
+
+p,
+hr,
+h2,
+h1 {
+    text-align: justify;
+    ;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    font-size: 20px;
+}
+
+body {
+    float: left;
+}
+
+hr {
+    width: 30%
+}
+
+img {
+    height: 325px;
+    align-content: center;
+    margin-left: 35%;
+}
+
+.licircle {
+    list-style-type: circle;
+}
+
+.desc {
+    font-weight: bold;
+}
+
+.soderjaniye {
+    position: fixed;
+    right: 30px;
+    bottom: 500px;
+}
+
+a {
+    color: rgb(138, 209, 80);
+}
